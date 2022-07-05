@@ -1,27 +1,27 @@
 const contacts = [
   {
     id: 1,
-    name: "Beyonce",
+    name: "SpongeBob",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://i.discogs.com/NHAk7rYgJrK1QueMfGzzw9pdGoyFx6fZUUW7xBYqlB4/rs:fit/g:sm/q:90/h:315/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mzg3/NC0xMTc2OTA3MTAy/LmpwZWc.jpeg",
     phone: "+123 456 789",
-    email: "b@beyonce.com"
+    email: "spongebob@krustykrab.com"
   },
   {
     id: 2,
-    name: "Jack Bauer",
+    name: "Kim Possible",
     imgURL:
-      "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
+      "https://static.wikia.nocookie.net/disney/images/8/89/Profile_-_Kim_Possible.png/",
     phone: "+987 654 321",
-    email: "jack@nowhere.com"
+    email: "kim@possible.com"
   },
   {
     id: 3,
-    name: "Chuck Norris",
+    name: "Obi-Wan",
     imgURL:
-      "https://i.pinimg.com/originals/e3/94/47/e39447de921955826b1e498ccf9a39af.png",
+      "https://www.direct8.fr/wp-content/uploads/2022/05/Obi-Wan-Kenobi.jpg",
     phone: "+918 372 574",
-    email: "gmail@chucknorris.com"
+    email: "ben@force.com"
   }
 ];
 
